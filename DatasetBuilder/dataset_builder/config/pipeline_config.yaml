@@ -1,7 +1,3 @@
-OpenAI:
-  api_key: "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"
-  
 Llama_OpenAI_Bank:
   class_name: "BankOpenAITest"
-  model : 'OpenAI'
-
+  model: 'OpenAI'
