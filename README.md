@@ -1,6 +1,6 @@
 # DatasetBuilder
 
-A pipeline for generating LLM training datasets by combining semantic search with GPT-3.5/GPT-4. Given a set of questions and source documents, it retrieves relevant paragraphs, generates answers, evaluates answer quality, and optionally produces multi-turn conversations — outputting structured JSON datasets ready for fine-tuning.
+A pipeline for generating LLM training datasets by combining semantic search with GPT-3.5/GPT-4. Given a set of questions and source documents, it retrieves relevant paragraphs, generates answers, evaluates answer quality, and optionally produces multi-turn conversations: outputting structured JSON datasets ready for fine-tuning.
 
 ## Background
 
